@@ -57,7 +57,7 @@ const MainScreen = () => {
           <div className="w-[95%] font-bold uppercase">Categories</div>
         </div>
         <div className="mt-2 w-full h-auto flex justify-center">
-          <div className="w-[95%] grid grid-cols-4 max-md:grid-cols-2 max-lg:grid-cols-3 gap-2">
+          <div className="w-[95%] grid grid-cols-4 max-md:grid-cols-2 max-lg:grid-cols-3 gap-2 bg-[red]">
             <Categories
               image={{
                 backgroundImage: `url(${compute})`,
