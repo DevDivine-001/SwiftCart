@@ -28,3 +28,6 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Customers enter, select products, and walk out with ease—all tracked in real-time by SwiftCart's AI-powered sensors and virtual cart technology. SwiftCart automatically detects each product added to a shopper’s virtual cart, records item details, and calculates the total cost. Upon exit, the customer completes the transaction via an integrated POS or mobile app, allowing for efficient and secure payment processing without human intervention.
+
+SwiftCart redefines retail convenience, ensuring a frictionless and enjoyable shopping experience that saves time, enhances security, and reduces operational costs, making it the ultimate solution for forward-thinking retail environments.
